@@ -1,5 +1,5 @@
-####Hieu Pham
+Hieu Pham
 
 AMS 595.01: Fundamentals of Computing
 
-Assignment 3
+### Assignment 3
